@@ -1,0 +1,51 @@
+Book Shelf Software 
+
+1 Book management 
+
+1.1 Borrow books from the library, provide support to .txt, .epub, and .pdf 
+
+1.2 Delete books 
+
+1.3 Add category of books 
+
+1.4 Manage categories (add/remove books) 
+
+1.5 Search books by text query 
+
+1.6 Create relationship between checked out book and relevant account 
+
+2 Book reading 
+
+2.1 Swipe to go to the next/previous page 
+
+2.2 Bookmark a page and go to the bookmark page (for .pdf and .epub) 
+
+2.3 Day & night mode (for .pdf and .epub) 
+
+2.4 Search for word and go to the word (for .pdf and .epub) 
+
+2.5 Change font and size of the text in the book 
+
+2.6 Extract chapters and directly go to certain chapters 
+
+3 Book notations (optional) 
+
+3.1 Add notation to certain page 
+
+3.2 View notations on page with notations 
+
+3.3 Edit notations 
+
+3.4 View all notations for a boo 
+
+3.5 Delete notations 
+
+4 Other 
+
+4.1 Zoom in/out and scroll whenever necessary 
+
+5 Account management 
+
+5.1 Create/Delete Accounts 
+
+5.2 Authentication/login to accounts	 
