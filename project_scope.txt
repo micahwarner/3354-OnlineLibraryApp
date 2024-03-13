@@ -36,7 +36,7 @@ Book Shelf Software
 
 3.3 Edit notations 
 
-3.4 View all notations for a boo 
+3.4 View all notations for a book 
 
 3.5 Delete notations 
 
